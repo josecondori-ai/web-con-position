@@ -1,4 +1,15 @@
+/*font familiy*/
+/*selector universal*/
+
 *{
     margin: 0;
     padding: 0;
+}
+
+/*limpiar los efectos nativos de las etiquetas*/
+
+a{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
 }
