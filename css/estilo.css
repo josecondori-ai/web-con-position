@@ -17,7 +17,7 @@ a{
 
 header{
     background-color: red;
-    
+
 }
 .navbar div{
     width: 800px;
@@ -41,6 +41,17 @@ header{
     padding: 10px 20px;
     margin: 0 10px;
     letter-spacing: 2px;
+
+}
+
+.contenedor-imagen{
+    height: 100vh;
+}
+
+.contenedor-imagen img{
+    width: 100%;
+    height: 100%;
+    
 
 }
 
